@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg{
+    background: #1C1C29;;
+}
+.br{
+    border-radius: 56px;
+}
+.font{
+    font-size: 56px;
+}
